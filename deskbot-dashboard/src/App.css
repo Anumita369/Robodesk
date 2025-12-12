@@ -1,0 +1,29 @@
+/* App.css — Minimal and Chakra-compatible */
+
+/* Reset any unwanted margins */
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+/* Optional: smooth animations */
+* {
+  scroll-behavior: smooth;
+}
+
+/* Optional: a light background for the dashboard */
+body {
+  background-color: #f7f9fc;
+}
+
+/* Optional utility class for sections */
+.section {
+  margin-bottom: 1.5rem;
+}
+
+/* Prevent images from overflowing */
+img {
+  max-width: 100%;
+  height: auto;
+}

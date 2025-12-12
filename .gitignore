@@ -1,0 +1,22 @@
+
+############################
+# NODE / JAVASCRIPT / TS   #
+############################
+node_modules/
+npm-debug.log
+yarn.lock
+pnpm-lock.yaml
+jspm_packages/
+typings/
+*.tsbuildinfo
+
+# Next.js / Remix / Vite
+.next/
+.vercel/
+.netlify/
+.vite/
+
+# React Native
+expo/
+.expo/
+.expo-shared/
